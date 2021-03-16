@@ -18,9 +18,3 @@
    <a href="https://www.hackerrank.com/Prashantkat?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="github" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashantkat18&show_icons=true&locale=en&layout=compact" alt="prashantkat18" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashantkat18&show_icons=true&locale=en" alt="prashantkat18" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantkat18&" alt="prashantkat18" /></p>
