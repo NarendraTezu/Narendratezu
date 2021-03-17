@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantkat18" alt="prashantkat18" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/prashan06902633" target="blank"><img src="https://img.shields.io/twitter/follow/prashan06902633?logo=twitter&style=for-the-badge" alt="prashan06902633" /></a> </p>
+<p align="left"> <a href="https://twitter.com/NARENDR93012855?s=08" target="blank"><img src="https://img.shields.io/twitter/follow/prashan06902633?logo=twitter&style=for-the-badge" alt="prashan06902633" /></a> </p>
 
 - 💬 Ask me about **Python,**
 
