@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendra Yadav</h1>
-<h3 align="center">A passionate  Python developer from India</h3>
+<h3 align="center">A passionate  AI/ML Engineer from India</h3>
 <img align="center" src="https://user-images.githubusercontent.com/44065405/111357396-4762fb00-86af-11eb-9e10-a85de2046614.gif" width"1200px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantkat18&label=Profile%20views&color=0e75b6&style=flat" alt="prashantkat18" /> </p>
 
