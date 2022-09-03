@@ -19,6 +19,3 @@
 <a href="https://www.facebook.com/profile.php?id=100074678946435" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook.com/profile.php?id=100074678946435" height="30" width="40" /></a>
   
 </p>
-<h3 align="left">Languages and Tools:</h3>
-
-<i class="fas fa-python"></i>
