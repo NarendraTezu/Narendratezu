@@ -16,7 +16,7 @@
   <a href="https://www.kaggle.com/narendratezu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
   <a href="https://leetcode.com/Narendratezu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="github" height="30" width="40" /></a>
 <a href="https://twitter.com/NARENDR93012855" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="narendr93012855" height="30" width="40" /></a>
-<a href="https://fb.com/facebook.com/prashant.kat.77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook.com/prashant.kat.77" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100074678946435" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook.com/profile.php?id=100074678946435" height="30" width="40" /></a>
   
 </p>
 
