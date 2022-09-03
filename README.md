@@ -16,7 +16,7 @@
   <a href="https://leetcode.com/Narendratezu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="github" height="30" width="40" /></a>
    <a href="https://www.hackerrank.com/Prashantkat?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="github" height="30" width="40" /></a>
 <a href="https://twitter.com/prashan06902633" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prashan06902633" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/prashant-katiyar-259378177" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/prashant-katiyar-259378177" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/narendra-yadav-a9384511b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/prashant-katiyar-259378177" height="30" width="40" /></a>
 <a href="https://fb.com/facebook.com/prashant.kat.77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook.com/prashant.kat.77" height="30" width="40" /></a>
   
 </p>
