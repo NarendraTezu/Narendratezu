@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/NARENDR93012855?s=08" target="blank"><img src="https://img.shields.io/twitter/follow/prashan06902633?logo=twitter&style=for-the-badge" alt="prashan06902633" /></a> </p>
 
-- 💬 Ask me about **Python,**
+- 💬 Ask me about **Python,Flask,Machine Learning,Deep Learning,Computer Vision,Natural Language Processing,Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
