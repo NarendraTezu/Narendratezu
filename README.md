@@ -12,10 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/Narendratezu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/narendra-yadav-a9384511b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/narendra-yadav-a9384511b/" height="30" width="40" /></a>
   <a href="https://www.kaggle.com/narendratezu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
   <a href="https://leetcode.com/Narendratezu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="github" height="30" width="40" /></a>
 <a href="https://twitter.com/NARENDR93012855" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="narendr93012855" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/narendra-yadav-a9384511b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/prashant-katiyar-259378177" height="30" width="40" /></a>
 <a href="https://fb.com/facebook.com/prashant.kat.77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook.com/prashant.kat.77" height="30" width="40" /></a>
   
 </p>
